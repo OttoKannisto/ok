@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: info
+permalink: /info/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Tämä on henkilökohtainen sivustoni. Käyttänen sitä koodailutaitojeni kehittämiseen. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Generoin sivuston [**näillä**](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) ohjeilla.  Ulkoasun muokkauksessa sovelsin [**täältä**](http://upskillcourses.com/) oppimiani taitoja sekä [**yleistä**](https://jekyllrb.com/) dokumentaatioita.
+ 
+ -Otto

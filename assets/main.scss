@@ -1,0 +1,57 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+header.site-header{ 
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f1e767+0,feb645+100;Yellow+3D */
+background: #f1e767; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #f1e767 0%, #feb645 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #f1e767 0%,#feb645 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #f1e767 0%,#feb645 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+padding: 35px;
+ }
+ 
+a.site-title:visited {
+text-shadow: 10px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ color: 	#2E8B57;
+font-size: 40px;
+text-decoration: none;
+ }
+ 
+ a.site-title {
+ 	color: #2E8B57;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    text-shadow: -1px 0 #FFF5EE, 0 1px #FFF5EE, 1px 0 #FFF5EE, 0 -1px #FFF5EE;
+    text-decoration: none;
+}
+
+
+
+.site-nav .page-link {
+ 	color: #2E8B57;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    text-shadow: -1px 0 #FFF5EE, 0 1px #FFF5EE, 1px 0 #FFF5EE, 0 -1px #FFF5EE;
+    text-decoration: none;
+}
+
+h1 {
+	color: #2E8B57;
+}
+
+a.post-link {
+	color: #2E8B57;
+	}
