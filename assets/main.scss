@@ -6,45 +6,40 @@
 
 
 header.site-header{ 
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f1e767+0,feb645+100;Yellow+3D */
-background: #f1e767; /* Old browsers */
-background: -moz-linear-gradient(-45deg,  #f1e767 0%, #feb645 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg,  #f1e767 0%,#feb645 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg,  #f1e767 0%,#feb645 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-padding: 35px;
+    background: linear-gradient(to top right, #003300 0%, #006600 100%);
+    padding: 35px;
  }
  
 a.site-title:visited {
 
-color: 	#2E8B57;
+color: 	#FDF5E6;
 font-size: 40px;
 text-decoration: none;
  }
  
  a.site-title {
- 	color: #FFF5EE;
-    font-size: 50px;
+ 	color: #FFDAB9;
+    font-size: 40px;
     font-weight: 300;
     line-height: 54px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    text-shadow: -1px 0 #FFF5EE, 0 1px #FFF5EE, 1px 0 #FFF5EE, 0 -1px #FFF5EE;
+    text-shadow: -1px 0         #DAA520, 0 1px      #DAA520, 1px 0      #DAA520, 0 -1px         #DAA520;
     text-decoration: none;
 }
 
 
 
 .site-nav .page-link {
- 	color: #2E8B57;
-    font-size: 30px;
+ 	color: #FDF5E6;
+    font-size: 40px;
     font-weight: 300;
     line-height: 54px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    text-shadow: -1px 0 #FFF5EE, 0 1px #FFF5EE, 1px 0 #FFF5EE, 0 -1px #FFF5EE;
+    text-shadow: -1px 0 #DAA520, 0 1px #DAA520, 1px 0 #DAA520, 0 -1px #DAA520;
     text-decoration: none;
 }
 
@@ -55,3 +50,12 @@ h1 {
 a.post-link {
 	color: #2E8B57;
 	}
+
+.site-name h1 {
+    color: #FDF5E6;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Arizonia', cursive;
+    font-size: 50px;
+    text-shadow: -1px 0 #DAA520, 0 1px #DAA520, 1px 0 #DAA520, 0 -1px #DAA520;
+}
