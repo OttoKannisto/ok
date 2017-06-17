@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Julkaisu 1"
+title:  "Vanhoja näkemyksiä"
 date:   2017-05-22 19:08:03 +0300
 categories: jekyll update
 ---
 
-Tässä voisi sijaita näkemys suuntaan tai toiseen. 
+Seuraavien linkkien takaa löytyy kirjoituksiani vuosilta 2016 ja 2017. 
+
+
+* Aktiivinen työvoimapolitiikka Suomessa: [**Gradun tiivistelmä**](http://www.doria.fi/handle/10024/134691).
+* Eturistiriidat Italian pankkisektorilla (Conflicts of interests: Italian banking sector and non-performing loans): [**Essee**](http://docdro.id/ucRI0qe).
+* Ja loppukevennyksenä [**matkavinkkejä Prahaan**](http://www.mondo.fi/tsekki/prahan-uudet-olutbaarit).  
+
 
 
