@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Kesäjuttu"
+date:   2017-05-22 19:08:03 +0300
+categories: jekyll update
+---
+
+Harjoitellessani tilastotuotantoa Tilastokeskuksella kirjoitin kesäisen blogin suomalaisten mökkeilystä.
+Sen voi lukea [**täältä**](http://tietotrenditblogi.stat.fi/kesamokki-lahella-kotia-ja-kaksion-kokoinen/). 
+
+
+
