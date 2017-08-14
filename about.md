@@ -8,4 +8,4 @@ Tämä on kulmani internetistä. Käyttänen sitä koodailutaitojeni kehittämis
 
 Generoin sivuston [**näillä**](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) ohjeilla.  Ulkoasun muokkauksessa sovelsin [**täältä**](http://upskillcourses.com/) oppimiani taitoja sekä [**yleistä**](https://jekyllrb.com/) dokumentaatioita.
  
- -Otto
+ -Otto  [**<i class="fa fa-linkedin" aria-hidden="true"></i>**](https://www.linkedin.com/in/otto-kannisto-5a459298)
